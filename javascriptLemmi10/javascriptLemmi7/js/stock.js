@@ -1,0 +1,21 @@
+let stockProductos = [
+    {id: 1, nombre: "El Esteco", precio: 4000, marca: "Malbec", img: '/img/esteco.jpg'},
+    {id: 2, nombre: "El Esteco", precio: 4000, marca: "Malbec", img: '/img/esteco.jpg'},
+    {id: 3, nombre: "El Esteco", precio: 4000, marca: "Malbec", img: '/img/esteco.jpg'},
+    {id: 4, nombre: "Mascota", precio: 3500, marca: "Malbec", img: '/img/mascota.jpg'},
+    {id: 5, nombre: "Mascota", precio: 3500, marca: "Malbec", img: '/img/mascota.jpg'},
+    {id: 6, nombre: "Mascota", precio: 3500, marca: "Malbec", img: '/img/mascota.jpg'},
+    {id: 7, nombre: "Saint Felicien", precio: 5500, marca: "Malbec", img: '/img/felicien.jpg'},
+    {id: 8, nombre: "Saint Felicien", precio: 5500, marca: "Malbec", img: '/img/felicien.jpg'},
+    {id: 9, nombre: "Saint Felicien", precio: 5500, marca: "Malbec", img: '/img/felicien.jpg'},
+    {id: 10, nombre: "DV Catena", precio: 7000, marca: "Cabernet-Malbec", img: '/img/catena.jpg'},
+    {id: 11, nombre: "DV Catena", precio: 7000, marca: "Cabernet-Malbec", img: '/img/catena.jpg'},
+    {id: 12, nombre: "DV Catena", precio: 7000, marca: "Cabernet-Malbec", img: '/img/catena.jpg'},
+    {id: 13, nombre: "El Enemigo", precio: 6000, marca: "Cabernet-Franc", img: '/img/enemigo.jpg'},
+    {id: 14, nombre: "El Enemigo", precio: 6000, marca: "Cabernet-Franc", img: '/img/enemigo.jpg'},
+    {id: 15, nombre: "El Enemigo", precio: 6000, marca: "Cabernet-Franc", img: '/img/enemigo.jpg'},
+]
+
+
+
+
